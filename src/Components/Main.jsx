@@ -16,6 +16,7 @@ const Main = () => {
            <Posts title='Ahmad' time='12:00 12 Jan 2023' text='  This impressive paella is a perfect party dish and a fun meal to cook
           together with your guests. Add 1 cup of frozen peas along with the mussels,
           if you like.' image={img1}/>
+          jhgkjhgjhgjh
            <Posts title='Zain' time='12:00 12 Jan 2023' text='  This impressive paella is a perfect party dish and a fun meal to cook
           together with your guests. Add 1 cup of frozen peas along with the mussels,
           if you like.' image={img2}/>
